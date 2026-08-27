@@ -4,9 +4,6 @@
 
 <div align="center">
 
-[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[!\[Hackathon Winner](https://img.shields.io/badge/🏆%202nd%20Rank-INDORE%20TECH%20HACKATHON%202025-blue)](.)
-
 > ### 🚀 \*\*"Empowering Citizens. Protecting Communities. Detecting Threats."\*\*
 </div>
 
