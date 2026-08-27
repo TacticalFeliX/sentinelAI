@@ -8,9 +8,6 @@
 [!\[Hackathon Winner](https://img.shields.io/badge/🏆%202nd%20Rank-INDORE%20TECH%20HACKATHON%202025-blue)](.)
 
 > ### 🚀 \*\*"Empowering Citizens. Protecting Communities. Detecting Threats."\*\*
->
-> Award-winning AI platform combining citizen reporting with advanced threat detection. \*\*2nd Rank - INDORE TECH HACKATHON 2025\*\* 🏆
-
 </div>
 
 \---
